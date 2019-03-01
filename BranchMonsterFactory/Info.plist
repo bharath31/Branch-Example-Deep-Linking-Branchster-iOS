@@ -2,6 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>branch_app_domain</key>
+	<string>eagle.app.link</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleExecutable</key>
@@ -85,6 +87,6 @@
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
 	<key>branch_key</key>
-	<string>key_live_hkDytPACtipny3N9XmnbZlapBDdj4WIL</string>
+	<string>key_live_feB6CpJCnPWmPOYDSEXH3gcivvejnkvG</string>
 </dict>
 </plist>
